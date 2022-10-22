@@ -1,7 +1,7 @@
 # Multimodal Discourse  
 PyTorch Code for the following paper at EMNLP2022 findings:  
 **Title**: Understanding Social Media Cross-Modality Discourse in Linguistic Space  
-**Authors**: Chunpu Xu, Hanzhuo Tan, Jing Li, Piji Li
+**Authors**: Chunpu Xu, Hanzhuo Tan, Jing Li, Piji Li \
 **Institute**: PolyU and NUAA  
 **Abstract**  
 The multimedia communications with texts and images are popular on social media.
